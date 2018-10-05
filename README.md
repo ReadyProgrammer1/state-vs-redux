@@ -1,6 +1,6 @@
 State vs Redux
 
-Demonstration modeling the difference between using this.setState to render and change the color of a simple React button component and using Redux to render the exact same button component and change the color.
+Simple demonstration React app modeling the difference between using this.setState to render and change the color of a React button component vs. using Redux to render the same button component and change the color.
 
 Go to the 'source-code' branch and download the zip.
 
