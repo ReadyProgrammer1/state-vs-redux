@@ -1,6 +1,6 @@
 State vs Redux
 
-Simple demonstration React app modeling the difference between using this.setState to render and change the color of a React button component vs. using Redux to render the same button component and change the color.
+Simple React app demonstration modeling the difference between using this.setState to render and change the color of a React button component vs. using Redux to render the same button component and change the color.
 
 The Redux button component may seem like overkill for creating a single component. However, with the addition of multiple components to a React application - Redux offers an adavantage - as it makes use of HoCs (higher-order components) that are more easily reusable, readable, and easier to test.
 
